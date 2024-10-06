@@ -9,7 +9,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.linkedin.com/in/vicennt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/vicennt" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/vic3nnt" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/vicennt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://twitter.com/vic3nnt" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, as well as cloud technologies.</h3>**
 
@@ -18,7 +18,7 @@
 - 💼 I'm currently working on: **💻 Starting my new adventure as freelancer & solopreneur**
 - 🌱 I'm currently learning: **📚 LLMs & Domain-Driven Design**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL, and RESTful APIs**
-- ⚡ Fun fact: **🎢 I once had a bug that only showed up in the demo **
+- 🎯 **Hobby:** 💪 **Going to the gym is one of my passions**
 - 📂 Portfolio: **<a href="www.vicentperez.com/projects" target="_blank">www.vicentperez.com/projects</a>**
 - 📝 Blog: **<a href="www.vicentperez.com/blog" target="_blank">www.vicentperez.com/blog</a>**
 
