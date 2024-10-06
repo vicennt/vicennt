@@ -1,4 +1,4 @@
-![👋 Hi, my name is Vicent Pérez](https://media.licdn.com/dms/image/v2/C4E16AQHl4J7MGrjw7A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1516488129289?e=1733961600&v=beta&t=nhW5ukGFbJU5CHH3HgFUrVGHTAy2bqQIjD3Gol1GRxY)
+![👋 Hi, my name is Vicent Pérez]
 
 <div id="toc">
   <ul align="center" style="list-style: none">
