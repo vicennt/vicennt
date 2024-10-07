@@ -16,7 +16,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Starting my new adventure as freelancer & solopreneur**
-- 🌱 I'm currently learning: **📚 LLMs & Domain-Driven Design**
+- 🌱 I'm currently learning: **📚 LLMs & Python
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL, and RESTful APIs**
 - 🎯 **Hobby:** 💪 **Going to the gym is one of my passions**
 - 📂 Portfolio: **<a href="www.vicentperez.com/projects" target="_blank">www.vicentperez.com/projects</a>**
