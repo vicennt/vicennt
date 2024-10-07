@@ -19,8 +19,8 @@
 - 🌱 I'm currently learning: **📚 LLMs & Python**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, PostgreSQL, and RESTful APIs**
 - 🎯 **Hobby:** 💪 **Going to the gym is one of my passions**
-- 📂 Portfolio: **<a href="www.vicentperez.com/projects" target="_blank">www.vicentperez.com/projects</a>**
-- 📝 Blog: **<a href="www.vicentperez.com/blog" target="_blank">www.vicentperez.com/blog</a>**
+- 📂 Portfolio: [www.vicentperez.com/projects](http://www.vicentperez.com/projects)
+- 📝 Blog: [www.vicentperez.com/blog](http://www.vicentperez.com/blog)
 
 
  **<h3 align="left">Skills</h3>**
