@@ -18,7 +18,7 @@
 - 💼 I'm currently working on: **💻 Starting my new adventure as freelancer & solopreneur**
 - 🌱 I'm currently learning: **📚 LLMs & Python**
 - 💬 Ask me about: **💡 JavaScript ecosystem, APIs design & Implementation and Amazon Web Services**
-- 🎯 **Hobby:** 💪 **Going to the gym is one of my passions**
+- 🎯 **Hobby:** 💪 **Gym, Nature and hanging out with friends & familiy**
 - 📂 Portfolio: [www.vicentperez.com/projects](http://www.vicentperez.com/projects)
 - 📝 Blog: [www.vicentperez.com/blog](http://www.vicentperez.com/blog)
 
