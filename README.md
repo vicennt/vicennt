@@ -16,7 +16,7 @@
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Starting my new adventure as freelancer & solopreneur**
-- 🌱 I'm currently learning: **📚 LLMs & Python**
+- 🌱 I'm currently learning: **📚 LLMs & Chatbots / AI Agents development
 - 💬 Ask me about: **💡 JavaScript ecosystem, APIs design & Implementation and Amazon Web Services**
 - 🎯 **Hobby:** 💪 **Gym, Nature and hanging out with friends & familiy**
 - 📂 Portfolio: [www.vicentperez.com/projects](http://www.vicentperez.com/projects)
