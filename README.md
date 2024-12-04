@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
     <summary>
       <h1>
-        👋 Hello!
+        👋 Hi there! I'm Vicent Pérez
       </h1>
     </summary>
   </ul>
