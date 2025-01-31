@@ -11,7 +11,7 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/vicennt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://twitter.com/vic3nnt" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate fullstack web developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, as well as cloud technologies.</h3>**
+ **<h3 align="left">🚀 Passionate FullStack developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, as well as cloud technologies.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
