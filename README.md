@@ -11,14 +11,14 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/vicennt" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a><a href="https://twitter.com/vic3nnt" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">🚀 Passionate FullStack developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, as well as cloud technologies.</h3>**
+ **<h3 align="left">🚀 Passionate AI Engineer creating robust, scalable cloud applications. Leveraging code assistants and harness engineering to boost productivity and build reliable software.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Starting my new adventure as freelancer & solopreneur**
-- 🌱 I'm currently learning: **📚 LLMs & Chatbots / AI Agents development**
-- 💬 Ask me about: **💡 JavaScript ecosystem, APIs design & Implementation and Amazon Web Services**
-- 🎯 **Hobby:** 💪 **Gym, Nature and hanging out with friends & familiy**
+- 💼 I'm currently working on: **💻 Scaling my freelance business and building products as a solopreneur**
+- 🌱 I'm currently learning: **📚 LLMs, AI Agents, code assistants & harness engineering**
+- 💬 Ask me about: **💡 JavaScript ecosystem, SaaS, AI and cloud computing (AWS)**
+- 🎯 **Hobbies:** 💪 **Gym, nature, and hanging out with friends & family**
 - 📂 Portfolio: [www.vicentperez.com/projects](http://www.vicentperez.com/projects)
 - 📝 Blog: [www.vicentperez.com/blog](http://www.vicentperez.com/blog)
 
